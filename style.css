@@ -1,0 +1,32 @@
+body{
+    background-color: gold;
+    padding: 50px;
+}
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: maroon;
+    padding: 20px;
+    width: 100%;
+    color: gold; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#display{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+}
+
+#Length{
+    display: inline-block;
+    width: 100px;
+}
+
+
+.previous_passwords{
+    margin-bottom: 20px;
+}
